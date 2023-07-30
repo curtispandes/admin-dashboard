@@ -33,4 +33,3 @@ if (monthNum === 2) {
     console.log("Number of days in the selected month: 30");
 } else {
     console.log("Number of days in the selected month: 31");
-}
